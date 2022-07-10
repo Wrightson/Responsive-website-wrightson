@@ -753,7 +753,7 @@ display: none;
 .contact__container{
   row-gap: 3rem;
 }
-.contact__informaton{
+.contact__information{
   display: flex;
   margin-bottom: var(--mb-2);
 }
